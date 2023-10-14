@@ -2,15 +2,13 @@
 
 ### Hey hey 👋
 
-My name is **Wu Chaojun.**
+My name is **Charles_Wu.**
 
 You can call me Jun, or you can also give me a nice English name.
 
-- 🔭  An undergraduate student at *Guangzhou College of South China University of Technology* (GCU).
 - 🌱  Currently learning computer vision of robot specialty.
-- 🍻  Vice captain of 2020-2021 wolves*GCU Robot Team* (WildWolf Team),strategic game lover and anime fan.
-- ⚡ Aiming at becoming a computer vision developer and robot engineer.
-- 📫 Contact me at [QQ email](1767851382@qq.com)
+- ⚡ I'm a robot algorithm engineer in agricultural field.
+- 📫 Contact me at [my email](cjun_w@163.com)
 - 🔭 Welcome to my knowledge base: [fqjun's Wiki](https://www.notion.so/fqjun/Learning-28a0ac3bcc454c3badab2a106eae6125)
 
 
